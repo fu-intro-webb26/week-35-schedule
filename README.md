@@ -1,5 +1,5 @@
-# Schema, vecka 22
-###### Backend med Node.js, vecka 3 av 5
+# Schema, vecka 35
+###### Introduktion till IT-branschen, vecka 1 av 1
 
 ## Introduktion
 
